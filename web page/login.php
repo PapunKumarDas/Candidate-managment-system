@@ -6,7 +6,7 @@
   <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-<img src="crm.png" class="rounded float-right" alt="crm.png">
+
   <div class="header">
   	<h2>Login</h2>
   </div>
