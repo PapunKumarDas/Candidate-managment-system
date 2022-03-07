@@ -1,0 +1,76 @@
+label {
+	cursor: pointer;
+	color: rgb(219, 231, 231);
+  font-family: 'Roboto Medium', sans-serif;
+  /* font-family: Verdana, Arial, Helvetica, sans-serif; */
+  font-size: 15px;
+	display: block;
+	padding: 5px;
+	margin: 1px;
+}
+body {
+    font-size: 120%;
+    background: #04c2db;
+    font-family: "Avenir Next", Calibri, Verdana, sans-serif;
+    
+    background: linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)), url(banner4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+    
+img {
+  width:5%;
+  height:100;
+}
+
+.btn {
+  padding: 10px;
+  font-size: 15px;
+ 
+  border: none;
+  border-radius: 30px;
+}
+.btn1{
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #10a349;
+  border: none;
+  border-radius: 30px;
+}
+.btn2{
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #072bf5;
+  border: none;
+  border-radius: 30px;
+}
+.btn3{
+  padding: 10px;
+  font-size: 15px;
+  color: white;
+  background: #e71709;
+  border: none;
+  border-radius: 30px;
+}
+
+
+
+input{
+  background-color:#666;
+  color: #FFF;
+}
+
+
+.head{
+  width: 100%;
+  margin: 50px auto 0px;
+  color: rgb(25, 211, 195);
+  background: #085e74;
+  text-align: center;
+  border: 2px solid #79e713;
+  border-bottom: none;
+  border-radius: 20px 20px 20px 20px;
+  padding: 50px;
+}
